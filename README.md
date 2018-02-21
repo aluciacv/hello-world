@@ -2,5 +2,5 @@
 
 Hello!! :D
 
-Good things take time...
-<<--Keep moving foward-->>
+Good things take time, 
+Keep moving foward...
